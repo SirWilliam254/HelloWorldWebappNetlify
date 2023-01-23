@@ -1,4 +1,4 @@
-### how to run the hello world flask app locally
+### how to run the Hello world flask app locally
 
 Make sure you have Python installed on your computer. You can check this by running the command ```python --version``` in your command prompt or terminal.
 
