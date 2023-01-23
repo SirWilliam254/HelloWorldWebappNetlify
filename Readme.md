@@ -12,7 +12,7 @@ FLASK_APP=app.py (on Linux or macOS) or set FLASK_APP=app.py (on Windows)
 ```
 to set the FLASK_APP environment variable to the name of your application file.
 
-Run the command flask run to start the development server.
+Run the command ```flask run``` to start the development server.
 
 Once the development server is running, you can access your app by going to http://localhost:5000 in your web browser.
 
